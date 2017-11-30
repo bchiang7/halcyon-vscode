@@ -1,4 +1,4 @@
-# README
+# Halcyon Theme for VS Code
 ## This is the README for your extension "halcyon-vscode"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
