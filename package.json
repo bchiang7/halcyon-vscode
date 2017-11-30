@@ -1,0 +1,29 @@
+{
+  "name": "halcyon-vscode",
+  "displayName": "Halcyon",
+  "description": "A dark theme for VS Code based on the Ayu Mirage theme",
+  "version": "0.0.1",
+  "publisher": "brittanychiang",
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Halcyon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/halcyon-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "Halcyon",
+        "label": "Halcyon",
+        "path": "./themes/halcyon-icon-theme.json"
+      }
+    ]
+  }
+}
