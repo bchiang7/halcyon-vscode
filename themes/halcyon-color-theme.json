@@ -33,7 +33,6 @@
 		"dropdown.background": "#272d38",
 		"dropdown.border": "#272d38",
 		"dropdown.foreground": "#d9d7ce",
-
 		// editor
 		// This is the main background color
 		"editor.background": "#212733",
@@ -48,7 +47,7 @@
 		// When you hover over something and a popup shows, this highlights that thing
 		"editor.hoverHighlightBackground": "#ffcc6633",
 		// when you have something selected, but have lost focus on the editor
-		"editor.inactiveSelectionBackground": "#191e27",
+		"editor.inactiveSelectionBackground": "#343f4c99",
 		// current line styles
 		"editor.lineHighlightBackground": "#343f4c",
 		"editor.lineHighlightBorder": "#343f4c",
@@ -413,7 +412,6 @@
 				"constant.character",
 				"constant.escape",
 				"variable.parameter",
-				"keyword.other",
 				"text.html",
 				"meta.property-value",
 				"meta.object-literal.key"
@@ -460,6 +458,7 @@
 			"scope": [
 				"support.type",
 				"support.class.console",
+				"keyword.other.debugger",
 				"meta.property-name",
 				"meta.property-list"
 			],
