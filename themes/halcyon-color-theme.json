@@ -295,7 +295,9 @@
 			"name": "Colors",
 			"scope": [
 				"constant.other.color",
-				"keyword.other.unit"
+				"keyword.other.unit",
+				"punctuation.definition.entity",
+				"constant.character.entity"
 			],
 			"settings": {
 				"foreground": "#c3a6ff"
