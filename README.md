@@ -1,13 +1,63 @@
 # Halcyon Theme for VS Code
-## This is the README for your extension "halcyon-vscode"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Main Colors
+### Workbench
+* Background: `#191e27`
+* Editor Background: `#212733`
+* Grey: `#738699`
+* Accent Yellow: `#ffcc66`
+* White: `#d9d7ce`
 
-**Enjoy!**
+### Syntax
+* Blue: `#5ccfe6`
+* Green: `#bae67e`
+* Orange: `#ffae57`
+* Yellow: `#ffd580`
+* Purple: `#c3a6ff`
+* Red: `#f07178`
+* Grey: `#abb2bf`
+* Dark Grey: `#607080`
+* Seafoam: `#95e6cb`
+* Magenta: `#c678dd`
+
+## User Settings
+```
+{
+  "eslint.autoFixOnSave": true,
+  "editor.colorDecorators": false,
+  "editor.detectIndentation": true,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Inconsolata",
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": false,
+  "editor.insertSpaces": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderWhitespace": "none",
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.trimTrailingWhitespace": true,
+  "sublimeTextKeymap.promptV3Features": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.25,
+  "workbench.iconTheme": "Halcyon",
+  "workbench.colorTheme": "Halcyon",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "files.exclude": {
+    "node_modules/": true,
+    "tmp/": true
+  },
+  "search.exclude": {
+    "node_modules/": true,
+    "dist/": true,
+    "tmp/": true
+  },
+  "vscode_custom_css.imports": [
+    "file:///Users/admin/.vscode/.vscodestyles.css"
+  ],
+  "window.zoomLevel": 0
+}
+```
