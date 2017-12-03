@@ -61,7 +61,7 @@
 		// "editor.inactiveSelectionBackground": "",
 		// Word Highlights! This happens when you move your cursor inside a variable
 		// Strong is the one where your cursor currently is
-		"editor.wordHighlightStrongBackground": "#ffcc6633",
+		"editor.wordHighlightStrongBackground": "#ffcc6655",
 		// and this one is the rest of them
 		"editor.wordHighlightBackground": "#ffcc6633",
 		// bracket match
@@ -229,7 +229,7 @@
 		"terminal.ansiGreen": "#BAE67E",
 		"terminal.ansiYellow": "#ffcc66",
 		"terminal.ansiBlue": "#5ccfe6",
-		"terminal.ansiMagenta": "#d291e4",
+		"terminal.ansiMagenta": "#C678DD",
 		"terminal.ansiCyan": "#5ccfe6",
 		"terminal.ansiWhite": "#abb2bf",
 		"terminal.ansiBrightBlack": "#212733",
@@ -237,7 +237,7 @@
 		"terminal.ansiBrightGreen": "#BAE67E",
 		"terminal.ansiBrightYellow": "#ffcc66",
 		"terminal.ansiBrightBlue": "#5ccfe6",
-		"terminal.ansiBrightMagenta": "#d291e4",
+		"terminal.ansiBrightMagenta": "#C678DD",
 		"terminal.ansiBrightCyan": "#5ccfe6",
 		"terminal.ansiBrightWhite": "#abb2bf",
 		"terminal.background": "#212733",
@@ -419,7 +419,8 @@
 				"meta.object-literal.key",
 				"punctuation.section.property-list",
 				"meta.property-value.scss punctuation",
-				"meta.property-list"
+				"meta.property-list",
+				"keyword.operator.type.annotation"
 			],
 			"settings": {
 				"foreground": "#abb2bf"
@@ -431,7 +432,6 @@
 				"string",
 				"constant.other.symbol",
 				"constant.other.key",
-				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
@@ -464,7 +464,9 @@
 				"support.type",
 				"support.class.console",
 				"keyword.other.debugger",
-				"meta.property-name"
+				"entity.other.inherited-class",
+				"meta.property-name",
+				"punctuation.definition.raw.markdown"
 			],
 			"settings": {
 				"foreground": "#5ccfe6"
