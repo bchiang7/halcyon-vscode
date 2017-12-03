@@ -314,13 +314,16 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Keyword, Storage, Number, Constant",
 			"scope": [
 				"keyword",
 				"storage.type",
 				"storage.modifier",
-				"constant.numeric.css",
-				"constant.language.boolean"
+				"constant.numeric",
+				"constant.language",
+				"support.constant",
+				"constant.character",
+				"constant.escape"
 			],
 			"settings": {
 				"foreground": "#c3a6ff"
@@ -352,7 +355,10 @@
 				"constant.other.color",
 				"meta.function.block.start.handlebars",
 				"meta.function.inline.other",
-				"keyword.operator"
+				"keyword.operator",
+				"meta.property-value",
+				"support.constant.mathematical-symbols.css",
+				"support.constant.mathematical-symbols.scss"
 			],
 			"settings": {
 				"foreground": "#FFAE57"
@@ -406,17 +412,14 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded, Things that should be grey",
+			"name": "Function Argument, Tag Attribute, Embedded, Things that should be grey",
 			"scope": [
-				"constant.numeric",
-				"constant.language",
-				"support.constant",
-				"constant.character",
-				"constant.escape",
 				"variable.parameter",
 				"text.html",
-				"meta.property-value",
-				"meta.object-literal.key"
+				"meta.object-literal.key",
+				"punctuation.section.property-list",
+				"meta.property-value.scss punctuation",
+				"meta.property-list"
 			],
 			"settings": {
 				"foreground": "#abb2bf"
@@ -461,8 +464,7 @@
 				"support.type",
 				"support.class.console",
 				"keyword.other.debugger",
-				"meta.property-name",
-				"meta.property-list"
+				"meta.property-name"
 			],
 			"settings": {
 				"foreground": "#5ccfe6"
