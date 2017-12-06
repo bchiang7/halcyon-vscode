@@ -357,8 +357,8 @@
 				"meta.function.inline.other",
 				"keyword.operator",
 				"meta.property-value",
-				"support.constant.mathematical-symbols.css",
-				"support.constant.mathematical-symbols.scss"
+				"support.constant.mathematical-symbols",
+				"support.constant.vendored.property-value"
 			],
 			"settings": {
 				"foreground": "#ffae57"
@@ -373,7 +373,8 @@
 				"support.variable.dom",
 				"meta.import",
 				"meta.export",
-				"meta.export.default"
+				"meta.export.default",
+				"support.class.builtin"
 			],
 			"settings": {
 				"foreground": "#5ccfe6"
