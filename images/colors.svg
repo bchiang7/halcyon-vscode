@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="640px" viewBox="0 0 1000 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Colors</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Colors">
+            <g id="Syntax" transform="translate(20.000000, 243.000000)">
+                <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="219" height="360"></rect>
+                <g id="Group" transform="translate(17.000000, 327.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#C678DD" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#c678dd" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="26" y="14">#c678dd</tspan>
+                        </text>
+                    </g>
+                    <text id="Magenta" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Magenta</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 297.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#95E6CB" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#95e6cb" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#95e6cb</tspan>
+                        </text>
+                    </g>
+                    <text id="Seafoam" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Seafoam</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 267.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#607080" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#607080" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="26" y="14">#607080</tspan>
+                        </text>
+                    </g>
+                    <text id="Dark-Grey" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Dark Grey</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 237.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#ABB2BF" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#abb2bf" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#abb2bf</tspan>
+                        </text>
+                    </g>
+                    <text id="Grey" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Grey</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 207.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#F07178" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#f07178" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#f07178</tspan>
+                        </text>
+                    </g>
+                    <text id="Red" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Red</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 177.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#C3A6FF" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#c3a6ff" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#c3a6ff</tspan>
+                        </text>
+                    </g>
+                    <text id="Purple" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Purple</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 147.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#FFD580" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#ffd580" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#ffd580</tspan>
+                        </text>
+                    </g>
+                    <text id="Yellow" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Yellow</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 117.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#FFAE57" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#ffae57" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#ffae57</tspan>
+                        </text>
+                    </g>
+                    <text id="Orange" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Orange</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 87.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#BAE67E" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#bae67e" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#bae67e</tspan>
+                        </text>
+                    </g>
+                    <text id="Green" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Green</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 57.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#5CCFE6" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#5ccfe6" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#5ccfe6</tspan>
+                        </text>
+                    </g>
+                    <text id="Blue" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Blue</tspan>
+                    </text>
+                </g>
+                <text font-family="SanFranciscoText-Bold, San Francisco Text" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="17" y="32">Syntax</tspan>
+                </text>
+            </g>
+            <g id="Workbench" transform="translate(20.000000, 26.000000)">
+                <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="219" height="217"></rect>
+                <g id="Group" transform="translate(17.000000, 177.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#D9D7CE" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#d9d7ce" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#d9d7ce</tspan>
+                        </text>
+                    </g>
+                    <text id="White" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">White</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 147.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#FFCC66" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#ffcc66" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="26" y="14">#ffcc66</tspan>
+                        </text>
+                    </g>
+                    <text id="Yellow" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Yellow</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 117.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#738699" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#738699" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="26" y="14">#738699</tspan>
+                        </text>
+                    </g>
+                    <text id="Grey" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Grey</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 87.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#212733" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#212733" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="26" y="14">#212733</tspan>
+                        </text>
+                    </g>
+                    <text id="Editor" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Editor</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 57.000000)">
+                    <g id="Color" transform="translate(85.000000, 0.000000)">
+                        <rect id="Rectangle-2" fill="#191E27" x="0" y="0" width="100" height="20" rx="3"></rect>
+                        <text id="#191e27" font-family="Inconsolata-Regular, Inconsolata" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="26" y="14">#191e27</tspan>
+                        </text>
+                    </g>
+                    <text id="Workbench" font-family="SanFranciscoText-Regular, San Francisco Text" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="15">Workbench</tspan>
+                    </text>
+                </g>
+                <text font-family="SanFranciscoText-Bold, San Francisco Text" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="17" y="32">Workbench</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
