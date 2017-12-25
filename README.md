@@ -18,9 +18,19 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 
 ## Main Colors
 
-<img src="https://cdn.rawgit.com/bchiang7/halcyon-vscode/19508627/images/workbench-colors.svg" width="100%">
+<img src="https://cdn.rawgit.com/bchiang7/halcyon-vscode/19508627/images/workbench-colors.svg" width="50%">
 
-<img src="https://cdn.rawgit.com/bchiang7/halcyon-vscode/19508627/images/syntax-colors.svg" width="100%">
+a <br />
+b <br />
+c
+
+
+<img src="https://cdn.rawgit.com/bchiang7/halcyon-vscode/19508627/images/syntax-colors.svg" width="50%">
+
+a <br />
+b <br />
+c
+
 
 ## Recommended Settings (Used with a 2017 Macbook Pro)
 
