@@ -1,5 +1,9 @@
 # Halcyon Theme for VS Code
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
+![Installs](https://vsmarketplacebadge.apphb.com/installs/brittanychiang.halcyon-vscode.svg)
+![GitHub license](https://img.shields.io/github/license/bchiang7/halcyon-vscode.svg)
+
 ![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
 
 ## Installation via VS Code
