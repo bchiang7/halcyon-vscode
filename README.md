@@ -1,10 +1,20 @@
 # Halcyon Theme for VS Code
 
-[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
 
-Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
+## Installation via VS Code
 
-File Icons based on [VS Code Great Icons](https://github.com/EmmanuelBeziat/vscode-great-icons)
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+1. Search for `Halcyon`
+1. Click **Install** to install it.
+1. Click **Reload** to reload the your editor
+1. Code > Preferences > Color Theme > **Halcyon**
+1. Code > Preferences > File Icon Theme > **Halcyon**
+1. Optional: Use the recommended settings below for best experience
+
+## Manual Installation
+
+Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
 
 ## Main Colors
 
@@ -29,7 +39,9 @@ File Icons based on [VS Code Great Icons](https://github.com/EmmanuelBeziat/vsco
 * Seafoam: `#95e6cb`
 * Magenta: `#c678dd`
 
-## User Settings (With my 2017 Macbook Pro)
+## Recommended Settings (Used with a 2017 Macbook Pro)
+
+[Download Inconsolata Font](https://fonts.google.com/specimen/Inconsolata)
 
 ```json
 {
@@ -68,3 +80,13 @@ File Icons based on [VS Code Great Icons](https://github.com/EmmanuelBeziat/vsco
   "window.zoomLevel": 0.5
 }
 ```
+
+## Reference
+
+[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+
+[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+
+Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
+
+File Icons based on [VS Code Great Icons](https://github.com/EmmanuelBeziat/vscode-great-icons)
