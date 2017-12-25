@@ -4,9 +4,14 @@
   "description": "A dark theme for VS Code based on the Ayu Mirage theme",
   "version": "0.0.1",
   "publisher": "brittanychiang",
+  "icon": "images/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiang7/halcyon-vscode"
+  },
+  "galleryBanner": {
+    "color": "#191e27",
+    "theme": "dark"
   },
   "engines": {
     "vscode": "^1.18.0"
