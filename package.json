@@ -38,5 +38,8 @@
         "path": "./themes/halcyon-icon-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^1.35.0"
   }
 }
