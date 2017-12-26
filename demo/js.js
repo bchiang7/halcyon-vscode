@@ -8,10 +8,10 @@ const joe = function () { };
 
 const wes = 100;
 
-function wes() {
+function brit() {
 
 }
 
-const wes = () => { };
+const brit = () => { };
 
-console.log(joe, wes);
+console.log(joe, brit);

@@ -2,7 +2,5 @@
 
 <?php
   $age = 100;
-  $name = 'wes';
+  $name = 'brit';
   $cool = true;
-
-
