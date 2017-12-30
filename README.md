@@ -47,8 +47,11 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": true,
   "sublimeTextKeymap.promptV3Features": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.lineHeight": 1.25,
+  "window.zoomLevel": 0.5,
   "workbench.iconTheme": "Halcyon",
   "workbench.colorTheme": "Halcyon",
   "workbench.editor.enablePreviewFromQuickOpen": false,
@@ -62,7 +65,18 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
     "dist/": true,
     "tmp/": true
   },
-  "window.zoomLevel": 0.5
+  "vscode_custom_css.imports": [
+    "file:///Users/admin/.vscode/.vscodestyles.css"
+  ],
+  "macros": {
+    "splitPane": [
+      "workbench.action.splitEditor",
+      "workbench.action.files.newUntitledFile",
+      "workbench.action.moveEditorLeftInGroup",
+      "workbench.action.closeEditorsToTheRight"
+    ]
+  },
+  "powermode.enabled": false
 }
 ```
 
