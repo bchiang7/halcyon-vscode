@@ -224,7 +224,7 @@
 		"tab.unfocusedActiveForeground": "#d9d7ceaa",
 		"tab.unfocusedInactiveForeground": "#738699",
 		// terminal
-		"terminal.ansiBlack": "#111111",
+		"terminal.ansiBlack": "#444a5e",
 		"terminal.ansiRed": "#f07178",
 		"terminal.ansiGreen": "#bae67e",
 		"terminal.ansiYellow": "#ffcc66",

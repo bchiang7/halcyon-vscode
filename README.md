@@ -10,17 +10,16 @@
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 1. Search for `Halcyon`
-1. Click **Install** to install it.
+1. Click **Install** to install it
 1. Click **Reload** to reload the your editor
 1. Code > Preferences > Color Theme > **Halcyon**
 1. Code > Preferences > File Icon Theme > **Halcyon**
-1. Optional: Use the recommended settings below for best experience
 
 ## Manual Installation
 
 Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
 
-## Main Colors
+## Colors
 
 ![colors](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/colors.png)
 

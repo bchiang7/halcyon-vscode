@@ -8,6 +8,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.1] - 12-25-17
 
-- Initial release, merry christmas
+- Initial release, Merry Christmas!
 
-## [0.0.2]
+## [0.0.2] - 12-30-17
+
+- Updated terminal black to not match background
