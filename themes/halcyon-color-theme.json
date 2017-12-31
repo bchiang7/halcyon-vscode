@@ -232,7 +232,7 @@
 		"terminal.ansiMagenta": "#c678dd",
 		"terminal.ansiCyan": "#5ccfe6",
 		"terminal.ansiWhite": "#abb2bf",
-		"terminal.ansiBrightBlack": "#111111",
+		"terminal.ansiBrightBlack": "#444a5e",
 		"terminal.ansiBrightRed": "#f07178",
 		"terminal.ansiBrightGreen": "#bae67e",
 		"terminal.ansiBrightYellow": "#ffcc66",
