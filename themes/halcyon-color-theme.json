@@ -224,23 +224,23 @@
 		"tab.unfocusedActiveForeground": "#d9d7ceaa",
 		"tab.unfocusedInactiveForeground": "#738699",
 		// terminal
-		"terminal.ansiBlack": "#212733",
+		"terminal.ansiBlack": "#111111",
 		"terminal.ansiRed": "#f07178",
 		"terminal.ansiGreen": "#bae67e",
 		"terminal.ansiYellow": "#ffcc66",
-		"terminal.ansiBlue": "#5ccfe6",
+		"terminal.ansiBlue": "#73d0ff",
 		"terminal.ansiMagenta": "#c678dd",
 		"terminal.ansiCyan": "#5ccfe6",
 		"terminal.ansiWhite": "#abb2bf",
-		"terminal.ansiBrightBlack": "#212733",
+		"terminal.ansiBrightBlack": "#111111",
 		"terminal.ansiBrightRed": "#f07178",
 		"terminal.ansiBrightGreen": "#bae67e",
 		"terminal.ansiBrightYellow": "#ffcc66",
-		"terminal.ansiBrightBlue": "#5ccfe6",
+		"terminal.ansiBrightBlue": "#73d0ff",
 		"terminal.ansiBrightMagenta": "#c678dd",
 		"terminal.ansiBrightCyan": "#5ccfe6",
 		"terminal.ansiBrightWhite": "#abb2bf",
-		"terminal.background": "#212733",
+		"terminal.background": "#191e27",
 		"terminal.foreground": "#abb2bf",
 		"terminalCursor.background": "#ffcc66",
 		"terminalCursor.foreground": "#ffcc66",
@@ -265,8 +265,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#abb2bf",
-				"background": "#212733"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -762,7 +761,7 @@
 				"markup.strike"
 			],
 			"settings": {
-				"fontStyle": "strike",
+				"fontStyle": "italic",
 				"foreground": "#ffcc66"
 			}
 		},
@@ -791,7 +790,6 @@
 				"markup.table"
 			],
 			"settings": {
-				"background": "#3cadd71a",
 				"foreground": "#5ccfe6"
 			}
 		},

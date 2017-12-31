@@ -49,8 +49,10 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
   "sublimeTextKeymap.promptV3Features": true,
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.lineHeight": 1.25,
+  "terminal.integrated.fontFamily": "Fira Mono for Powerline",
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.shell.osx": "zsh",
+  "terminal.integrated.lineHeight": 1,
   "window.zoomLevel": 0.5,
   "workbench.iconTheme": "Halcyon",
   "workbench.colorTheme": "Halcyon",
@@ -65,9 +67,6 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
     "dist/": true,
     "tmp/": true
   },
-  "vscode_custom_css.imports": [
-    "file:///Users/admin/.vscode/.vscodestyles.css"
-  ],
   "macros": {
     "splitPane": [
       "workbench.action.splitEditor",
