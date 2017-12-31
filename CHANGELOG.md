@@ -13,3 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2] - 12-30-17
 
 - Updated terminal black to not match background
+
+## [0.0.3]
+
+- Bump up line number brightness
