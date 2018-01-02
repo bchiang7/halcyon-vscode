@@ -5,10 +5,18 @@
   "version": "0.0.2",
   "publisher": "brittanychiang",
   "icon": "images/logo.png",
+  "author": {
+    "name": "Brittany Chiang"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiang7/halcyon-vscode"
   },
+  "bugs": {
+    "url": "https://github.com/bchiang7/halcyon-vscode/issues",
+    "email": "brittany.chiang@gmail.com"
+  },
+  "homepage": "https://github.com/bchiang7/halcyon-vscode/blob/master/README.md",
   "galleryBanner": {
     "color": "#191e27",
     "theme": "dark"
