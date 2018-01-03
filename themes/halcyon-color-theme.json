@@ -353,12 +353,14 @@
 				"meta.tag",
 				"keyword.control",
 				"constant.other.color",
+				"punctuation.definition.constant",
 				"meta.function.block.start.handlebars",
 				"meta.function.inline.other",
 				"keyword.operator",
 				"meta.property-value",
 				"support.constant.mathematical-symbols",
-				"support.constant.vendored.property-value"
+				"support.constant.vendored.property-value",
+				"punctuation.definition.keyword"
 			],
 			"settings": {
 				"foreground": "#ffae57"
