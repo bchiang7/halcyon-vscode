@@ -339,7 +339,8 @@
 				"keyword.other.template",
 				"keyword.other.substitution",
 				"meta.brace",
-				"meta.block"
+				"meta.block",
+				"meta.jsx"
 			],
 			"settings": {
 				"foreground": "#abb2bf"
@@ -383,7 +384,6 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
@@ -420,7 +420,8 @@
 				"punctuation.section.property-list",
 				"meta.property-value.scss punctuation",
 				"meta.property-list",
-				"keyword.operator.type.annotation"
+				"keyword.operator.type.annotation",
+				"keyword.operator.accessor"
 			],
 			"settings": {
 				"foreground": "#abb2bf"
@@ -491,8 +492,7 @@
 			"name": "Sub-methods",
 			"scope": [
 				"entity.name.module.js",
-				"variable.import.parameter.js",
-				"variable.other.class.js"
+				"variable.import.parameter.js"
 			],
 			"settings": {
 				"foreground": "#f07178"
