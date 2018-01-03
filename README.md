@@ -80,9 +80,11 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 
 ## Reference
 
+[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+
 [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
 
-[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
 Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
 
