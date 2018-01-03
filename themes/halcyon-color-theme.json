@@ -374,7 +374,8 @@
 				"meta.import",
 				"meta.export",
 				"meta.export.default",
-				"support.class.builtin"
+				"support.class.builtin",
+				"support.class.component"
 			],
 			"settings": {
 				"foreground": "#5ccfe6"
