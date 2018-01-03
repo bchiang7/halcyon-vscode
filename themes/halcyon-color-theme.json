@@ -83,7 +83,7 @@
 		// editorGroupHeader
 		"editorGroupHeader.noTabsBackground": "#212733",
 		"editorGroupHeader.tabsBackground": "#191e27",
-		"editorGroupHeader.tabsBorder": "#212733",
+		"editorGroupHeader.tabsBorder": "#191e27",
 		// editorHoverWidget
 		"editorHoverWidget.background": "#272d38",
 		"editorHoverWidget.border": "#343d4a",
