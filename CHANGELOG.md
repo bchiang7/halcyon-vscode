@@ -14,6 +14,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Updated terminal black to not match background
 
-## [0.0.3]
+## [0.0.3] - 01-03-17
 
 - Bump up line number brightness
+- Change color of tab area border to better align with side bar headers
+- JSX things
+
+## [0.0.4] - 01-03-17
+
+- More JSX React things
+
+## [0.0.5] - 01-03-17
+
+- Template strings braces should be purple
+- Change word highlights from yellow to greyish color
