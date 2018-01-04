@@ -296,7 +296,8 @@
 				"constant.other.color",
 				"keyword.other.unit",
 				"punctuation.definition.entity",
-				"constant.character.entity"
+				"constant.character.entity",
+				"punctuation.definition.template-expression"
 			],
 			"settings": {
 				"foreground": "#c3a6ff"
