@@ -9,15 +9,15 @@
 		"activityBarBadge.background": "#ffcc66",
 		"activityBarBadge.foreground": "#191e27",
 		// badge
-		"badge.background": "#66737f",
+		"badge.background": "#738699",
 		"badge.foreground": "#d9d7ce",
 		// button
-		"button.background": "#ffcc6699",
+		"button.background": "#ffcc66",
 		"button.foreground": "#191e27",
-		"button.hoverBackground": "#ffcc66",
+		"button.hoverBackground": "#ffcc6699",
 		// contrast
-		// "contrastActiveBorder": null,
-		"contrastBorder": "#ffffff00",
+		"contrastActiveBorder": "#ffcc6600",
+		"contrastBorder": "#ffcc6600",
 		// debug
 		"debugExceptionWidget.background": "#272d38",
 		"debugExceptionWidget.border": "#343d4a",
@@ -37,15 +37,15 @@
 		// This is the main background color
 		"editor.background": "#212733",
 		// this is the main text color
-		"editor.foreground": "#d9d7ce",
+		"editor.foreground": "#abb2bf",
 		// Currently found item
-		"editor.findMatchBackground": "#007bff",
+		"editor.findMatchBackground": "#738699",
 		// Other found items in the document
 		"editor.findMatchHighlightBackground": "#343f4c",
 		// WTF is this one for? I don't know
 		"editor.findRangeHighlightBackground": "#343f4c",
 		// When you hover over something and a popup shows, this highlights that thing
-		"editor.hoverHighlightBackground": "#ffcc6633",
+		"editor.hoverHighlightBackground": "#73869977",
 		// when you have something selected, but have lost focus on the editor
 		"editor.inactiveSelectionBackground": "#343f4c99",
 		// current line styles
@@ -114,9 +114,9 @@
 		"editorWidget.border": "#272d38",
 		"errorForeground": "#ff3333",
 		// extensionButton
-		"extensionButton.prominentBackground": "#ffcc66aa",
+		"extensionButton.prominentBackground": "#ffcc66",
 		"extensionButton.prominentForeground": "#212733",
-		"extensionButton.prominentHoverBackground": "#ffcc66bb",
+		"extensionButton.prominentHoverBackground": "#ffcc6699",
 		"focusBorder": "#7386998a",
 		"foreground": "#738699",
 		"gitDecoration.ignoredResourceForeground": "#73869977",
@@ -151,12 +151,12 @@
 		"merge.currentHeaderBackground": "#ffffff00",
 		"merge.incomingContentBackground": "#ffffff00",
 		"merge.incomingHeaderBackground": "#ffffff00",
-		// notification -- vscode use default
+		// notification
 		"notification.background": "#343d4a",
-		// "notification.foreground": "#d9d7ce",
-		"notification.buttonBackground": "#007bff",
-		// "notification.buttonForeground": "#191e27",
-		// "notification.buttonHoverBackground": "#ffcc6655",
+		"notification.foreground": "#d9d7ce",
+		"notification.buttonBackground": "#ffcc66",
+		"notification.buttonForeground": "#191e27",
+		"notification.buttonHoverBackground": "#ffcc66aa",
 		// "notification.errorBackground": "#ff3333",
 		// "notification.errorForeground": "#d9d7ce",
 		// "notification.infoBackground": "#5ccfe6",
@@ -341,7 +341,8 @@
 				"keyword.other.substitution",
 				"meta.brace",
 				"meta.block",
-				"meta.jsx"
+				"meta.jsx",
+				"meta.embedded.expression"
 			],
 			"settings": {
 				"foreground": "#abb2bf"
