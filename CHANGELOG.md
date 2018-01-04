@@ -28,3 +28,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Template strings braces should be purple
 - Change word highlights from yellow to greyish color
+
+## [0.0.6] - 01-04-17
+
+- More consistent colors for highlighting and such
