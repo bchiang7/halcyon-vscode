@@ -23,6 +23,34 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 
 ![colors](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/colors.png)
 
+Theme Background `#191e27`
+
+Editor Background `#212733`
+
+Accent Yellow `#ffcc66`
+
+Accent Grey `#738699`
+
+White `#d9d7ce`
+
+Blue `#5ccfe6`
+
+Green `#bae67e`
+
+Orange `#ffae57`
+
+Yellow `#ffd580`
+
+Purple `#c3a6ff`
+
+Red `#f07178`
+
+Grey `#abb2bf`
+
+Dark Grey `#607080`
+
+Seafoam `#95e6cb`
+
 ## Recommended Settings (Used with a 2017 Macbook Pro)
 
 [Download Inconsolata Font](https://fonts.google.com/specimen/Inconsolata)
