@@ -32,3 +32,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.6] - 01-04-17
 
 - More consistent colors for highlighting and such
+
+## [0.0.7] - 01-04-17
+
+- Update logo
