@@ -599,7 +599,6 @@
         "tag.decorator.js punctuation.definition.tag"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#5ccfe6"
       }
     },
