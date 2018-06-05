@@ -2,7 +2,7 @@
     "name": "halcyon-vscode",
     "displayName": "Halcyon Theme",
     "description": "A dark theme for VS Code based on the Ayu Mirage theme",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "publisher": "brittanychiang",
     "icon": "images/logo.png",
     "author": {
