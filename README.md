@@ -13,7 +13,6 @@
 1. Click **Install** to install it
 1. Click **Reload** to reload the editor
 1. Code > Preferences > Color Theme > **Halcyon**
-1. Code > Preferences > File Icon Theme > **Halcyon**
 
 ## Manual Installation
 
@@ -28,8 +27,6 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
 Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
-
-File Icons based on [VS Code Great Icons](https://github.com/EmmanuelBeziat/vscode-great-icons)
 
 ## Shameless Plug
 

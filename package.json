@@ -1,53 +1,46 @@
 {
-    "name": "halcyon-vscode",
-    "displayName": "Halcyon Theme",
-    "description": "A dark theme for VS Code based on the Ayu Mirage theme",
-    "version": "0.0.9",
-    "publisher": "brittanychiang",
-    "icon": "images/logo.png",
-    "author": {
-        "name": "Brittany Chiang"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/bchiang7/halcyon-vscode"
-    },
-    "bugs": {
-        "url": "https://github.com/bchiang7/halcyon-vscode/issues",
-        "email": "brittany.chiang@gmail.com"
-    },
-    "homepage": "https://github.com/bchiang7/halcyon-vscode/blob/master/README.md",
-    "galleryBanner": {
-        "color": "#191e27",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.18.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "VSCode",
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Halcyon",
-                "uiTheme": "vs-dark",
-                "path": "./themes/halcyon-color-theme.json"
-            }
-        ],
-        "iconThemes": [
-            {
-                "id": "Halcyon",
-                "label": "Halcyon",
-                "path": "./themes/halcyon-icon-theme.json"
-            }
-        ]
-    },
-    "devDependencies": {
-        "vsce": "^1.36.2"
-    }
+  "name": "halcyon-vscode",
+  "displayName": "Halcyon Theme",
+  "description": "A dark theme for VS Code based on the Ayu Mirage theme",
+  "version": "0.0.9",
+  "publisher": "brittanychiang",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Brittany Chiang"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bchiang7/halcyon-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/bchiang7/halcyon-vscode/issues",
+    "email": "brittany.chiang@gmail.com"
+  },
+  "homepage": "https://github.com/bchiang7/halcyon-vscode/blob/master/README.md",
+  "galleryBanner": {
+    "color": "#191e27",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Halcyon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/halcyon-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^1.36.2"
+  }
 }
