@@ -288,7 +288,7 @@
     "terminal.foreground": "#a2aabc",
     "terminal.ansiBlack": "#2f3b54",
     "terminal.ansiBlue": "#5ccfe6",
-    "terminal.ansiBrightBlue": "#73d0ff",
+    "terminal.ansiBrightBlue": "#5ccfe6",
     "terminal.ansiBrightCyan": "#5ccfe6",
     "terminal.ansiBrightGreen": "#bae67e",
     "terminal.ansiBrightBlack": "#444a5e",
@@ -320,10 +320,11 @@
     "gitDecoration.deletedResourceForeground": "#ef6b73",
     "gitDecoration.untrackedResourceForeground": "#8695b7",
     "gitDecoration.ignoredResourceForeground": "#8695b777",
-    "gitDecoration.conflictingResourceForeground": "#ef6b73",
+    "gitDecoration.conflictingResourceForeground": "#ef6b73"
   },
   "tokenColors": [
     {
+      "scope": [],
       "settings": {
         "foreground": "#a2aabc"
       }
@@ -786,7 +787,7 @@
       "scope": ["markup.quote"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#73d0ff"
+        "foreground": "#5ccfe6"
       }
     },
     {
@@ -848,7 +849,7 @@
       "scope": ["markup.quote", "punctuation.definition.blockquote.markdown"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#73d0ff"
+        "foreground": "#5ccfe6"
       }
     },
     {
