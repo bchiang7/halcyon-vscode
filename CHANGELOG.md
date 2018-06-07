@@ -36,3 +36,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.7] - 01-04-17
 
 - Update logo
+
+## [0.1.0] - 06-05-18
+
+- Color refresh
+
+## [0.1.4] - 06-07-18
+
+- Tweaks and fixes for breaking changes
