@@ -44,3 +44,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.1.4] - 06-07-18
 
 - Tweaks and fixes for breaking changes
+-
+## [0.1.5] - 06-11-18
+
+- Fixed editor suggest widget selection background
