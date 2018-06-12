@@ -197,7 +197,7 @@
     "editorSuggestWidget.border": "#2f3b54",
     "editorSuggestWidget.foreground": "#d7dce2",
     "editorSuggestWidget.highlightForeground": "#ffcc66",
-    "editorSuggestWidget.selectedBackground": "#2f3b54",
+    "editorSuggestWidget.selectedBackground": "#1d2433",
     "editorHoverWidget.background": "#2f3b54",
     "editorHoverWidget.border": "#2f3b54",
     "debugExceptionWidget.background": "#2f3b54",
@@ -318,7 +318,7 @@
     // Git Colors
     "gitDecoration.modifiedResourceForeground": "#5ccfe6",
     "gitDecoration.deletedResourceForeground": "#ef6b73",
-    "gitDecoration.untrackedResourceForeground": "#8695b7",
+    "gitDecoration.untrackedResourceForeground": "#bae67e",
     "gitDecoration.ignoredResourceForeground": "#8695b777",
     "gitDecoration.conflictingResourceForeground": "#ef6b73"
   },
