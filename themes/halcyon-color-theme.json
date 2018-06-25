@@ -413,7 +413,8 @@
         "support.constant.mathematical-symbols",
         "support.constant.vendored.property-value",
         "punctuation.definition.keyword",
-        "punctuation.accessor"
+        "punctuation.accessor",
+        "punctuation.separator.property"
       ],
       "settings": {
         "foreground": "#ffae57"
@@ -442,7 +443,8 @@
         "entity.name.function",
         "variable.function",
         "support.function",
-        "keyword.other.special-method"
+        "keyword.other.special-method",
+        "meta.function-call"
       ],
       "settings": {
         "foreground": "#ffd580"
