@@ -9,7 +9,7 @@ class widget extends React.Component {
   }
 }
 
-const joe = function () {};
+const joe = function() {};
 
 const brit = () => {};
 
