@@ -489,7 +489,8 @@
         "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "punctuation.definition.string",
-        "entity.name.section.markdown"
+        "entity.name.section.markdown",
+        "meta.attribute-selector"
       ],
       "settings": {
         "foreground": "#bae67e"
