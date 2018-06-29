@@ -6,7 +6,8 @@
   "publisher": "brittanychiang",
   "icon": "images/logo.png",
   "author": {
-    "name": "Brittany Chiang"
+    "name": "Brittany Chiang",
+    "email": "brittany.chiang@gmail.com"
   },
   "repository": {
     "type": "git",
