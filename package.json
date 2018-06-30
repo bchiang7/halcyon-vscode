@@ -18,9 +18,6 @@
     "email": "brittany.chiang@gmail.com"
   },
   "homepage": "https://github.com/bchiang7/halcyon-vscode/blob/master/README.md",
-  "scripts": {
-    "precommit": "lint-staged"
-  },
   "galleryBanner": {
     "color": "#171c28",
     "theme": "dark"
@@ -45,12 +42,6 @@
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
     "@nuscout/prettier-config": "^0.1.2",
-    "vsce": "^1.42.0"
-  },
-  "lint-staged": {
-    "*.{js,json,css,scss,md}": [
-      "prettier --write",
-      "git add"
-    ]
+    "vsce": "^1.43.0"
   }
 }

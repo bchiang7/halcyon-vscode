@@ -6,7 +6,7 @@
     "foreground": "#8695b7",
     "focusBorder": "#8695b777",
     "widget.shadow": "#171c2899",
-    "selection.background": "#2f3b5499",
+    "selection.background": "#8695b777",
     "descriptionForeground": "#d7dce2",
     "errorForeground": "#ef6b73",
 
@@ -316,14 +316,13 @@
     "walkThrough.embeddedEditorBackground": "#171c28",
 
     // Git Colors
-    "gitDecoration.modifiedResourceForeground": "#5ccfe6",
+    "gitDecoration.modifiedResourceForeground": "#ffcc66",
     "gitDecoration.deletedResourceForeground": "#ef6b73",
     "gitDecoration.untrackedResourceForeground": "#bae67e",
     "gitDecoration.ignoredResourceForeground": "#8695b777",
     "gitDecoration.conflictingResourceForeground": "#ef6b73"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "scope": [],
       "settings": {
         "foreground": "#a2aabc"
@@ -465,8 +464,7 @@
       }
     },
     {
-      "name":
-        "Function Argument, Tag Attribute, Embedded, Things that should be grey",
+      "name": "Function Argument, Tag Attribute, Embedded, Things that should be grey",
       "scope": [
         "variable.parameter",
         "text.html",

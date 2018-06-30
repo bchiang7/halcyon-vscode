@@ -14,6 +14,14 @@
 1.  Click **Reload** to reload the editor
 1.  Code > Preferences > Color Theme > **Halcyon**
 
+The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
+
+```json
+  "material-icon-theme.folders.color": "#8695b7",
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.hidesExplorerArrows": true,
+```
+
 ## Manual Installation
 
 Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
