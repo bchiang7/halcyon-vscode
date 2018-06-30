@@ -33,11 +33,13 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [{
-      "label": "Halcyon",
-      "uiTheme": "vs-dark",
-      "path": "./themes/halcyon-color-theme.json"
-    }]
+    "themes": [
+      {
+        "label": "Halcyon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/halcyon-color-theme.json"
+      }
+    ]
   },
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
