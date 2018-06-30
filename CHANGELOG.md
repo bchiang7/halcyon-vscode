@@ -48,3 +48,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.1.5] - 06-11-18
 
 - Fixed editor suggest widget selection background
+
+## [0.1.8] - 06-30-18
+
+- Fixed input selection color
