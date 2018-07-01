@@ -316,13 +316,14 @@
     "walkThrough.embeddedEditorBackground": "#171c28",
 
     // Git Colors
-    "gitDecoration.modifiedResourceForeground": "#ffcc66",
+    "gitDecoration.modifiedResourceForeground": "#5ccfe6",
     "gitDecoration.deletedResourceForeground": "#ef6b73",
     "gitDecoration.untrackedResourceForeground": "#bae67e",
     "gitDecoration.ignoredResourceForeground": "#8695b777",
     "gitDecoration.conflictingResourceForeground": "#ef6b73"
   },
-  "tokenColors": [{
+  "tokenColors": [
+    {
       "scope": [],
       "settings": {
         "foreground": "#a2aabc"
@@ -464,7 +465,8 @@
       }
     },
     {
-      "name": "Function Argument, Tag Attribute, Embedded, Things that should be grey",
+      "name":
+        "Function Argument, Tag Attribute, Embedded, Things that should be grey",
       "scope": [
         "variable.parameter",
         "text.html",
