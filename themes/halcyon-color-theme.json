@@ -170,13 +170,13 @@
 
     // Errors and warnings
     "editorError.foreground": "#ef6b73",
-    "editorError.border": "#ef6b73",
+    // "editorError.border": "#ef6b73",
     "editorWarning.foreground": "#ef6b73",
-    "editorWarning.border": "#ef6b73",
+    // "editorWarning.border": "#ef6b73",
     "editorInfo.foreground": "#5ccfe6",
-    "editorInfo.border": "#5ccfe6",
+    // "editorInfo.border": "#5ccfe6",
     "editorHint.foreground": "#ffcc66",
-    "editorHint.border": "#ffcc66",
+    // "editorHint.border": "#ffcc66",
 
     // Editor Gutter
     "editorGutter.background": "#1d2433",
