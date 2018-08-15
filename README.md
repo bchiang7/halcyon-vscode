@@ -36,6 +36,10 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 
 Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
 
+```bash
+vsce publish patch
+```
+
 ## Shameless Plug
 
 Halcyon is also available for Sublime Text, Atom, iTerm, and more! Check out all available options [here](https://brittanychiang.com/halcyon-site/).
