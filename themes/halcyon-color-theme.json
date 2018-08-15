@@ -69,6 +69,8 @@
     "list.inactiveSelectionForeground": "#d7dce2",
     "list.inactiveFocusBackground": "#2f3b54",
     "list.invalidItemForeground": "#ef6b73",
+    "list.errorForeground": "#ef6b73",
+    "list.warningForeground": "#ef6b73",
 
     // Activity Bar
     "activityBar.background": "#171c28",
@@ -87,12 +89,13 @@
     "sideBarSectionHeader.foreground": "#ffcc66",
 
     // Editor Groups
-    "editorGroup.background": "#2f3b54",
     "editorGroup.border": "#2f3b54",
     "editorGroup.dropBackground": "#ffcc66",
     "editorGroupHeader.noTabsBackground": "#1d2433",
     "editorGroupHeader.tabsBackground": "#171c28",
     "editorGroupHeader.tabsBorder": "#171c28",
+    "editorGroup.emptyBackground": "#1d2433",
+    "editorGroup.focusedEmptyBorder": "#1d2433",
 
     // Tabs
     "tab.activeBackground": "#1d2433",
@@ -465,8 +468,7 @@
       }
     },
     {
-      "name":
-        "Function Argument, Tag Attribute, Embedded, Things that should be grey",
+      "name": "Function Argument, Tag Attribute, Embedded, Things that should be grey",
       "scope": [
         "variable.parameter",
         "text.html",
