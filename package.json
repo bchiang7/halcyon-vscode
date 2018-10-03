@@ -30,7 +30,14 @@
   ],
   "keywords": [
     "VSCode",
-    "Themes"
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Dark",
+    "Blue",
+    "Navy",
+    "theme",
+    "Halcyon"
   ],
   "contributes": {
     "themes": [
