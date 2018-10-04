@@ -3,8 +3,8 @@
   "type": "dark",
   "colors": {
     // Base Colors
-    "foreground": "#8695b7",
     "focusBorder": "#8695b777",
+    "foreground": "#8695b7",
     "widget.shadow": "#171c2899",
     "selection.background": "#8695b777",
     "descriptionForeground": "#d7dce2",
@@ -259,12 +259,22 @@
     "statusBarItem.prominentBackground": "#171c28",
     "statusBarItem.prominentHoverBackground": "#1d2433",
 
-    // Title Bar Colors (macOS)
+    // Title Bar Colors
     "titleBar.activeBackground": "#171c28",
     "titleBar.activeForeground": "#8695b7",
     "titleBar.inactiveBackground": "#171c28",
     "titleBar.inactiveForeground": "#8695b777",
     "titleBar.border": "#171c28",
+
+    // Menu Bar Colors
+    "menubar.selectionForeground": "#d7dce2",
+    "menubar.selectionBackground": "#2f3b54",
+    // "menubar.selectionBorder": "",
+    "menu.foreground": "#8695b7",
+    "menu.background": "#171c28",
+    "menu.selectionForeground": "#d7dce2",
+    "menu.selectionBackground": "#2f3b54",
+    // "menu.selectionBorder": "",
 
     // Notification Colors
     "notificationCenter.border": "#171c28",
@@ -323,7 +333,30 @@
     "gitDecoration.deletedResourceForeground": "#ef6b73",
     "gitDecoration.untrackedResourceForeground": "#bae67e",
     "gitDecoration.ignoredResourceForeground": "#8695b777",
-    "gitDecoration.conflictingResourceForeground": "#ef6b73"
+    "gitDecoration.conflictingResourceForeground": "#ef6b73",
+
+    // Settings Editor Colors
+    "settings.headerForeground": "#d7dce2",
+    "settings.modifiedItemIndicator": "#5ccfe6",
+    "settings.dropdownBackground": "#2f3b54",
+    "settings.dropdownForeground": "#d7dce2",
+    "settings.dropdownBorder": "#2f3b54",
+    "settings.dropdownListBorder": "#2f3b54",
+    "settings.checkboxBackground": "#2f3b54",
+    "settings.checkboxForeground": "#d7dce2",
+    "settings.checkboxBorder": "#2f3b54",
+    "settings.textInputBackground": "#2f3b54",
+    "settings.textInputForeground": "#d7dce2",
+    "settings.textInputBorder": "#2f3b54",
+    "settings.numberInputBackground": "#2f3b54",
+    "settings.numberInputForeground": "#d7dce2",
+    "settings.numberInputBorder": "#2f3b54",
+
+    // Breadcrumbs
+    "breadcrumb.foreground": "#d7dce2",
+    "breadcrumb.focusForeground": "#d7dce2",
+    "breadcrumb.activeSelectionForeground": "#d7dce2",
+    "breadcrumbPicker.background": "#2f3b54"
   },
   "tokenColors": [
     {

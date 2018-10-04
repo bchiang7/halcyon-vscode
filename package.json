@@ -30,7 +30,14 @@
   ],
   "keywords": [
     "VSCode",
-    "Themes"
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Dark",
+    "Blue",
+    "Navy",
+    "theme",
+    "Halcyon"
   ],
   "contributes": {
     "themes": [
@@ -44,6 +51,6 @@
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
     "@nuscout/prettier-config": "^0.1.2",
-    "vsce": "^1.43.0"
+    "vsce": "^1.51.1"
   }
 }
