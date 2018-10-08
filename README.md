@@ -18,7 +18,7 @@
 
 Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
 
-### Recommended Settings
+## Recommended Settings
 
 ```json
 {
@@ -35,7 +35,7 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 }
 ```
 
-### Optional
+## Optional
 
 The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
 
@@ -61,4 +61,4 @@ vsce publish patch
 
 ## Shameless Plug
 
-Halcyon is also available for Sublime Text, Atom, iTerm, and more! Check out all available options [here](https://brittanychiang.com/halcyon-site/).
+Halcyon is also available for Sublime Text, Atom, iTerm, and more! Check out all available options [here](https://halcyon-theme.netlify.com/).
