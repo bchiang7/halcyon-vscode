@@ -866,7 +866,7 @@
       "name": "Markdown - Line Break",
       "scope": ["text.html.markdown meta.dummy.line-break"],
       "settings": {
-        "foreground": "#2f3b54"
+        "foreground": "#a2aabc"
       }
     },
     {
@@ -912,7 +912,7 @@
         "variable.language.fenced.markdown"
       ],
       "settings": {
-        "foreground": "#2f3b54"
+        "foreground": "#a2aabc"
       }
     },
     {
@@ -920,15 +920,15 @@
       "scope": ["variable.language.fenced.markdown"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#2f3b54"
+        "foreground": "#a2aabc"
       }
     },
     {
       "name": "Markdown - Separator",
       "scope": ["meta.separator"],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#2f3b54"
+        "fontStyle": "",
+        "foreground": "#a2aabc"
       }
     },
     {
