@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/bchiang7/halcyon-vscode/blob/master/README.md",
   "galleryBanner": {
-    "color": "#0a192f",
+    "color": "#171c28",
     "theme": "dark"
   },
   "engines": {
