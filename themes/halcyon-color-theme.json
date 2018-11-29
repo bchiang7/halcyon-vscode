@@ -13,7 +13,7 @@
     // Text Colors
     "textBlockQuote.background": "#2f3b54",
     "textBlockQuote.border": "#2f3b54",
-    "textCodeBlock.background": "#2f3b54",
+    "textCodeBlock.background": "#171c28",
     "textLink.activeForeground": "#ffcc66",
     "textLink.foreground": "#ffcc66",
     "textPreformat.foreground": "#d7dce2",
@@ -324,8 +324,8 @@
     "debugToolBar.border": "#2f3b54",
 
     // Welcome Page
-    "welcomePage.buttonBackground": "#ffcc66",
-    "welcomePage.buttonHoverBackground": "#ffcc6699",
+    "welcomePage.buttonBackground": "#2f3b54",
+    "welcomePage.buttonHoverBackground": "#2f3b5499",
     "walkThrough.embeddedEditorBackground": "#171c28",
 
     // Git Colors
