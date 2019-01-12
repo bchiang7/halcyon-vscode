@@ -571,7 +571,9 @@
         "source.less support.type.property-name",
         "source.stylus support.type.property-name",
         "source.postcss support.type.property-name",
-        "support.type.property-name"
+        "support.type.property-name",
+        "support.variable.object.node",
+        "support.variable.object.process"
       ],
       "settings": {
         "foreground": "#5ccfe6"
