@@ -428,7 +428,8 @@
         "meta.brace",
         "meta.block",
         "meta.jsx",
-        "meta.embedded.expression"
+        "meta.embedded.expression",
+        "meta.template.expression"
       ],
       "settings": {
         "foreground": "#a2aabc"
