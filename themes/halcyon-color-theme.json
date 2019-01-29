@@ -59,7 +59,7 @@
     // Lists and Trees
     "list.activeSelectionBackground": "#2f3b54",
     "list.activeSelectionForeground": "#d7dce2",
-    "list.dropBackground": "#ffcc66",
+    "list.dropBackground": "#2f3b54",
     "list.focusBackground": "#2f3b54",
     "list.focusForeground": "#d7dce2",
     "list.highlightForeground": "#ffcc66",
@@ -74,7 +74,7 @@
 
     // Activity Bar
     "activityBar.background": "#171c28",
-    "activityBar.dropBackground": "#ffcc66",
+    "activityBar.dropBackground": "#2f3b54",
     "activityBar.foreground": "#8695b7",
     "activityBar.border": "#171c28",
     "activityBarBadge.background": "#ffcc66",
@@ -90,7 +90,7 @@
 
     // Editor Groups
     "editorGroup.border": "#2f3b54",
-    "editorGroup.dropBackground": "#ffcc66",
+    "editorGroup.dropBackground": "#2f3b54",
     "editorGroupHeader.noTabsBackground": "#1d2433",
     "editorGroupHeader.tabsBackground": "#171c28",
     "editorGroupHeader.tabsBorder": "#171c28",
