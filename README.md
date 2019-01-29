@@ -18,24 +18,7 @@
 
 Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
 
-## Recommended Settings
-
-```json
-{
-  "editor.cursorBlinking": "phase",
-  "editor.cursorWidth": 2,
-  "editor.fontSize": 13,
-  "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
-  "editor.formatOnPaste": false,
-  "editor.formatOnSave": true,
-  "editor.insertSpaces": false,
-  "editor.lineHeight": 22,
-  "editor.scrollBeyondLastLine": true
-}
-```
-
-## Optional
+## Icon Theme
 
 The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
 
