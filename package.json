@@ -44,8 +44,12 @@
     ]
   },
   "devDependencies": {
-    "@nuscout/eslint-config": "^0.2.1",
-    "@nuscout/prettier-config": "^0.1.2",
-    "vsce": "^1.51.1"
+    "@upstatement/eslint-config": "^0.4.0",
+    "@upstatement/prettier-config": "^0.3.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0",
+    "eslint-config-prettier": "^4.0.0",
+    "prettier": "^1.16.4",
+    "vsce": "^1.57.0"
   }
 }

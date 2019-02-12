@@ -53,7 +53,7 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 | ![](https://via.placeholder.com/10/ffcc66?text=+) `#ffcc66` | Accent, tab underline, list tree titles, badges, etc |
 | ![](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Addition highlights                                  |
 | ![](https://via.placeholder.com/10/ef6b73?text=+) `#ef6b73` | Deletion highlights, errors, warnings                |
-| ![](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Modified highlights (gutter & scrollbar ruler)       |
+| ![](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Modified highlights                                  |
 
 ## Theming Reference
 
