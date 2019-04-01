@@ -1,9 +1,20 @@
-# Halcyon Theme for VS Code
+<p align="center">
+  <img alt="Halcyon" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+</p>
+<h1 align="center">
+  Halcyon Theme for VS Code
+</h1>
+<p align="center">
+  A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.
+</p>
+<center>
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/brittanychiang.halcyon-vscode.svg?maxAge=3600)](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
 
 ![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
+
+</center>
 
 ## Installation via VS Code
 
