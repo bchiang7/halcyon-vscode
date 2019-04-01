@@ -7,14 +7,16 @@
 <p align="center">
   A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.
 </p>
-<center>
-
-[![Version](https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/brittanychiang.halcyon-vscode.svg?maxAge=3600)](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/brittanychiang.halcyon-vscode.svg?maxAge=3600" />
+  </a>
+</p>
 
 ![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
-
-</center>
 
 ## Installation via VS Code
 
