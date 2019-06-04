@@ -32,10 +32,10 @@
 
     // Input Control
     "input.background": "#1d2433",
-    "input.border": "#8695b799",
+    "input.border": "#2f3b54",
     "input.foreground": "#d7dce2",
     "input.placeholderForeground": "#8695b777",
-    "inputOption.activeBorder": "#8695b799",
+    "inputOption.activeBorder": "#2f3b54",
     "inputValidation.errorBackground": "#1d2433",
     "inputValidation.errorBorder": "#ef6b73",
     "inputValidation.infoBackground": "#1d2433",
@@ -194,8 +194,8 @@
     "diffEditor.removedTextBorder": "#ef6b73",
 
     // Editor Widget Colors
-    "editorWidget.background": "#2f3b54",
-    "editorWidget.border": "#2f3b54",
+    "editorWidget.background": "#171c28",
+    "editorWidget.border": "#171c28",
     "editorSuggestWidget.background": "#2f3b54",
     "editorSuggestWidget.border": "#2f3b54",
     "editorSuggestWidget.foreground": "#d7dce2",
