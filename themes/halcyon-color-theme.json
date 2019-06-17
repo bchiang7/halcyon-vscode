@@ -188,10 +188,10 @@
     "editorGutter.deletedBackground": "#ef6b73",
 
     // Diff Editor Colors
-    "diffEditor.insertedTextBackground": "#bae67e55",
-    "diffEditor.insertedTextBorder": "#bae67e",
-    "diffEditor.removedTextBackground": "#ef6b7355",
-    "diffEditor.removedTextBorder": "#ef6b73",
+    "diffEditor.insertedTextBackground": "#bae67e22",
+    "diffEditor.insertedTextBorder": "#bae67e44",
+    "diffEditor.removedTextBackground": "#ef6b7322",
+    "diffEditor.removedTextBorder": "#ef6b7344",
 
     // Editor Widget Colors
     "editorWidget.background": "#171c28",
@@ -228,9 +228,9 @@
 
     // Merge Conflicts
     "merge.currentHeaderBackground": "#5ccfe677",
-    "merge.currentContentBackground": "#5ccfe655",
+    "merge.currentContentBackground": "#5ccfe622",
     "merge.incomingHeaderBackground": "#bae67e77",
-    "merge.incomingContentBackground": "#bae67e55",
+    "merge.incomingContentBackground": "#bae67e22",
     "merge.border": "#8695b7",
     "merge.commonHeaderBackground": "#2f3b5477",
     "merge.commonContentBackground": "#2f3b5455",
