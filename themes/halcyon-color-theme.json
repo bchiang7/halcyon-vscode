@@ -5,7 +5,7 @@
     // Base Colors
     "focusBorder": "#8695b777",
     "foreground": "#8695b7",
-    "widget.shadow": "#171c2899",
+    "widget.shadow": "#00030F",
     "selection.background": "#8695b777",
     "descriptionForeground": "#d7dce2",
     "errorForeground": "#ef6b73",
