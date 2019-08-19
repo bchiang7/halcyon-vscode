@@ -446,7 +446,8 @@
         "meta.block",
         "meta.jsx",
         "meta.embedded.expression",
-        "meta.template.expression"
+        "meta.template.expression",
+        "meta.tag.block.any.html"
       ],
       "settings": {
         "foreground": "#a2aabc"
@@ -543,7 +544,8 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "punctuation.definition.string",
         "entity.name.section.markdown",
-        "meta.attribute-selector"
+        "meta.attribute-selector",
+        "entity.name.import.go"
       ],
       "settings": {
         "foreground": "#bae67e"
@@ -957,6 +959,18 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#c3a6ff"
+      }
+    },
+    {
+      "scope": ["storage.type.error.go"],
+      "settings": {
+        "foreground": "#5ccfe6"
+      }
+    },
+    {
+      "scope": "punctuation.other.period.go",
+      "settings": {
+        "foreground": "#ffae57"
       }
     }
   ]
