@@ -91,7 +91,7 @@
     // Side Bar
     "sideBar.background": "#171c28",
     "sideBar.foreground": "#8695b7",
-    "sideBar.border": "#171c28",
+    // "sideBar.border": "#1d2433",
     "sideBarTitle.foreground": "#ffcc66",
     "sideBarSectionHeader.background": "#1d2433",
     "sideBarSectionHeader.foreground": "#ffcc66",
@@ -277,9 +277,9 @@
 
     // Title Bar colors
     "titleBar.activeBackground": "#171c28",
-    "titleBar.activeForeground": "#8695b7",
+    "titleBar.activeForeground": "#d7dce2",
     "titleBar.inactiveBackground": "#171c28",
-    "titleBar.inactiveForeground": "#8695b777",
+    "titleBar.inactiveForeground": "#8695b7",
     "titleBar.border": "#171c28",
 
     // Menu Bar colors
