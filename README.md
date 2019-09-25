@@ -1,18 +1,21 @@
 <p align="center">
-  <img alt="Halcyon" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Halcyon Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.
+  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
     <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/brittanychiang.halcyon-vscode.svg?maxAge=3600" />
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/brittanychiang.halcyon-vscode.svg" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/brittanychiang.halcyon-vscode.svg" />
   </a>
 </p>
 
@@ -79,9 +82,9 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
 
 ```bash
-vsce publish patch
+vsce publish patch/minor/major
 ```
 
 ## Shameless Plug
 
-Halcyon is also available for Sublime Text, Atom, iTerm, and more! Check out all available options [here](https://halcyon-theme.netlify.com/).
+Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
