@@ -562,7 +562,8 @@
         "support.other.namespace.php",
         "markup.changed.git_gutter",
         "support.type.sys-types",
-        "meta.object-literal.key"
+        "meta.object-literal.key",
+        "variable.other.object"
       ],
       "settings": {
         "foreground": "#ffd580"
@@ -576,7 +577,8 @@
         "keyword.other.debugger",
         "entity.other.inherited-class",
         "meta.property-name",
-        "punctuation.definition.raw.markdown"
+        "punctuation.definition.raw.markdown",
+        "variable.graphql"
       ],
       "settings": {
         "foreground": "#5ccfe6"
