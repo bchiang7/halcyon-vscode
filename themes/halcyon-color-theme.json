@@ -562,8 +562,7 @@
         "support.other.namespace.php",
         "markup.changed.git_gutter",
         "support.type.sys-types",
-        "meta.object-literal.key",
-        "variable.other.object"
+        "meta.object-literal.key"
       ],
       "settings": {
         "foreground": "#ffd580"
