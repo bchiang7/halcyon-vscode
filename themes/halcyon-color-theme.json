@@ -447,7 +447,9 @@
         "meta.jsx",
         "meta.embedded.expression",
         "meta.template.expression",
-        "meta.tag.block.any.html"
+        "meta.tag.block.any.html",
+        "string.unquoted.tag-string.nunjucks",
+        "text.html.nunjucks"
       ],
       "settings": {
         "foreground": "#a2aabc"
@@ -469,7 +471,8 @@
         "support.constant.vendored.property-value",
         "punctuation.definition.keyword",
         "punctuation.accessor",
-        "punctuation.separator.property"
+        "punctuation.separator.property",
+        "string.unquoted.filter-pipe.nunjucks"
       ],
       "settings": {
         "foreground": "#ffae57"
