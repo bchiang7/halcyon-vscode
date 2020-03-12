@@ -580,7 +580,8 @@
         "entity.other.inherited-class",
         "meta.property-name",
         "punctuation.definition.raw.markdown",
-        "variable.graphql"
+        "variable.graphql",
+        "variable.other.readwrite"
       ],
       "settings": {
         "foreground": "#5ccfe6"
