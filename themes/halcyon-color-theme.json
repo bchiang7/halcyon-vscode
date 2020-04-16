@@ -189,7 +189,7 @@
     // Errors and warnings
     "editorError.foreground": "#ef6b73",
     // "editorError.border": "#ef6b73",
-    "editorWarning.foreground": "#ef6b73",
+    "editorWarning.foreground": "#ffd580",
     // "editorWarning.border": "#ef6b73",
     "editorInfo.foreground": "#5ccfe6",
     // "editorInfo.border": "#5ccfe6",
