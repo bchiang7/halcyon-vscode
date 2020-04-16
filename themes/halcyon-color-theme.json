@@ -73,7 +73,7 @@
     "list.inactiveFocusBackground": "#2f3b54",
     "list.invalidItemForeground": "#ef6b73",
     "list.errorForeground": "#ef6b73",
-    "list.warningForeground": "#ef6b73",
+    "list.warningForeground": "#ffd580",
     "listFilterWidget.background": "#2f3b54",
     "listFilterWidget.outline": "#2f3b54",
     "listFilterWidget.noMatchesOutline": "#ef6b73",
@@ -182,7 +182,7 @@
     "editorOverviewRuler.addedForeground": "#bae67e",
     "editorOverviewRuler.deletedForeground": "#ef6b73",
     "editorOverviewRuler.errorForeground": "#ef6b73",
-    "editorOverviewRuler.warningForeground": "#ffcc66",
+    "editorOverviewRuler.warningForeground": "#ffd580",
     "editorOverviewRuler.infoForeground": "#5ccfe6",
     "editorOverviewRuler.bracketMatchForeground": "#ffcc66",
 
