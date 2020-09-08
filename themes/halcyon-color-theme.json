@@ -516,13 +516,6 @@
       }
     },
     {
-      "name": "Other Variable, String Link",
-      "scope": ["support.other.variable", "string.other.link"],
-      "settings": {
-        "foreground": "#ef6b73"
-      }
-    },
-    {
       "name": "Function Argument, Tag Attribute, Embedded, Things that should be grey",
       "scope": [
         "variable.parameter",
@@ -559,7 +552,6 @@
       "scope": [
         "entity.name",
         "support.type",
-        "support.class",
         "support.orther.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
@@ -575,7 +567,7 @@
       "name": "Entity Types",
       "scope": [
         "support.type",
-        "support.class.console",
+        "support.class",
         "keyword.other.debugger",
         "entity.other.inherited-class",
         "meta.property-name",
