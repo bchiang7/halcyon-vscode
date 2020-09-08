@@ -2,7 +2,7 @@
   "name": "halcyon-vscode",
   "displayName": "Halcyon Theme",
   "description": "A dark blue theme for VS Code based on the Ayu Mirage theme",
-  "version": "0.2.15",
+  "version": "0.2.16",
   "publisher": "brittanychiang",
   "icon": "images/logo.png",
   "author": {
