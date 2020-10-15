@@ -81,7 +81,7 @@
 
     // Activity Bar
     "activityBar.background": "#171c28",
-    "activityBar.dropBackground": "#2f3b54",
+    "activityBar.dropBorder": "#2f3b54",
     "activityBar.foreground": "#8695b7",
     "activityBar.inactiveForeground": "#8695b799",
     "activityBar.border": "#171c28",
@@ -258,9 +258,16 @@
     "panel.background": "#171c28",
     "panel.border": "#1d2433",
     "panel.dropBackground": "#2f3b54",
+    "panel.dropBorder": "#2f3b54",
     "panelTitle.activeBorder": "#ffcc66",
     "panelTitle.activeForeground": "#d7dce2",
     "panelTitle.inactiveForeground": "#8695b7",
+    "panelInput.border": "#8695b7",
+    "panelSection.border": "#2f3b54",
+    "panelSection.dropBackground": "#2f3b54",
+    "panelSectionHeader.background": "#1d2433",
+    "panelSectionHeader.foreground": "#ffcc66",
+    // "panelSectionHeader.border": "",
 
     // Status Bar colors
     "statusBar.background": "#171c28",
@@ -403,7 +410,8 @@
         "constant.other.color",
         "punctuation.definition.entity",
         "constant.character.entity",
-        "punctuation.definition.template-expression"
+        "punctuation.definition.template-expression",
+        "punctuation.section.tag.twig",
       ],
       "settings": {
         "foreground": "#c3a6ff"
@@ -472,7 +480,7 @@
         "punctuation.definition.keyword",
         "punctuation.accessor",
         "punctuation.separator.property",
-        "string.unquoted.filter-pipe.nunjucks"
+        "string.unquoted.filter-pipe"
       ],
       "settings": {
         "foreground": "#ffae57"
@@ -489,7 +497,8 @@
         "meta.export",
         "meta.export.default",
         "support.class.builtin",
-        "support.class.component"
+        "support.class.component",
+        "variable.other.object"
       ],
       "settings": {
         "foreground": "#5ccfe6"
@@ -502,7 +511,8 @@
         "variable.function",
         "support.function",
         "keyword.other.special-method",
-        "meta.function-call"
+        "meta.function-call",
+        "keyword.control.filter"
       ],
       "settings": {
         "foreground": "#ffd580"
@@ -523,7 +533,8 @@
         "punctuation.section.property-list",
         "meta.property-value.scss punctuation",
         "meta.property-list",
-        "keyword.operator.type.annotation"
+        "keyword.operator.type.annotation",
+        "variable.other.object.property"
       ],
       "settings": {
         "foreground": "#a2aabc"
