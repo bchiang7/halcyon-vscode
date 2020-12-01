@@ -552,7 +552,8 @@
         "punctuation.definition.string",
         "entity.name.section.markdown",
         "meta.attribute-selector",
-        "entity.name.import.go"
+        "entity.name.import.go",
+        "storage.type.attr.nunjucks"
       ],
       "settings": {
         "foreground": "#bae67e"
