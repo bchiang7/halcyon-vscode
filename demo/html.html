@@ -19,9 +19,22 @@ here is some text
   var x = '100';
   x.toString();
 
+  const foo = 'bar';
 </script>
 
 <body>
+
+  <div class="good-class-name">
+    {% include "@components/image-layout.twig" with {
+      style: 'one-inset-small',
+      images: [
+        {
+          src: 'img/thing.png',
+          alt: 'Image description text',
+        }
+      ]
+    } %}
+  </div>
 
 </body>
 
