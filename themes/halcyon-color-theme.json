@@ -257,7 +257,6 @@
     // Panel colors
     "panel.background": "#171c28",
     "panel.border": "#1d2433",
-    "panel.dropBackground": "#2f3b54",
     "panel.dropBorder": "#2f3b54",
     "panelTitle.activeBorder": "#ffcc66",
     "panelTitle.activeForeground": "#d7dce2",
@@ -267,7 +266,6 @@
     "panelSection.dropBackground": "#2f3b54",
     "panelSectionHeader.background": "#1d2433",
     "panelSectionHeader.foreground": "#ffcc66",
-    // "panelSectionHeader.border": "",
 
     // Status Bar colors
     "statusBar.background": "#171c28",
@@ -277,10 +275,10 @@
     "statusBar.debuggingForeground": "#8695b7",
     "statusBar.noFolderBackground": "#171c28",
     "statusBar.noFolderForeground": "#8695b7",
-    "statusBarItem.activeBackground": "#171c28",
+    "statusBarItem.activeBackground": "#2f3b54",
     "statusBarItem.hoverBackground": "#1d2433",
-    "statusBarItem.prominentBackground": "#171c28",
-    "statusBarItem.prominentHoverBackground": "#1d2433",
+    "statusBarItem.remoteBackground": "#171c28",
+    "statusBarItem.remoteForeground": "#8695b7",
 
     // Title Bar colors
     "titleBar.activeBackground": "#171c28",
@@ -292,12 +290,10 @@
     // Menu Bar colors
     "menubar.selectionForeground": "#d7dce2",
     "menubar.selectionBackground": "#2f3b54",
-    // "menubar.selectionBorder": "",
     "menu.foreground": "#8695b7",
     "menu.background": "#171c28",
     "menu.selectionForeground": "#d7dce2",
     "menu.selectionBackground": "#2f3b54",
-    // "menu.selectionBorder": "",
 
     // Notification colors
     "notificationCenter.border": "#171c28",
