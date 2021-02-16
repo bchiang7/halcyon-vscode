@@ -463,7 +463,6 @@
       "name": "Attribute Equal Signs, handlebars operators",
       "scope": [
         "punctuation.separator.key-value.html",
-        "meta.tag",
         "keyword.control",
         "keyword.operator",
         "constant.other.color",
