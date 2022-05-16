@@ -691,14 +691,14 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#bae67e"
+        "foreground": "#ffae57"
       }
     },
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#bae67e"
+        "foreground": "#5ccfe6"
       }
     },
     {
