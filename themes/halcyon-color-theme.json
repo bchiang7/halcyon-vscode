@@ -32,8 +32,8 @@
 
     // Input control
     "input.background": "#1d2433",
-    "input.border": "#2f3b54",
-    "input.foreground": "#d7dce2",
+    "input.border": "#000000",
+    "input.foreground": "#cfd5dd",
     "input.placeholderForeground": "#8695b777",
     "inputOption.activeBorder": "#2f3b54",
     "inputValidation.errorBackground": "#1d2433",
