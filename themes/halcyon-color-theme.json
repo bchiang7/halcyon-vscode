@@ -31,7 +31,7 @@
     "dropdown.foreground": "#d7dce2",
 
     // Input control
-    "input.background": "#1d2433",
+    "input.background": "#000",
     "input.border": "#2f3b54",
     "input.foreground": "#d7dce2",
     "input.placeholderForeground": "#8695b777",
