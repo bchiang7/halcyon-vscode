@@ -32,7 +32,7 @@
 
     // Input control
     "input.background": "#1d2433",
-    "input.border": "#000000",
+    "input.border": "#2f3b54",
     "input.foreground": "#cfd5dd",
     "input.placeholderForeground": "#8695b777",
     "inputOption.activeBorder": "#2f3b54",
@@ -130,9 +130,9 @@
     "editorPane.background": "#1d2433",
 
     // Editor colors
-    "editor.background": "#1d2433",
-    "editor.foreground": "#a2aabc",
-    "editorLineNumber.foreground": "#8695b755",
+    "editor.background": "#000000",
+    "editor.foreground": "#a2aabce3",
+    "editorLineNumber.foreground": "#6174a08f",
     "editorLineNumber.activeForeground": "#8695b7",
     "editorCursor.background": "#1d2433",
     "editorCursor.foreground": "#ffcc66",
