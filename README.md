@@ -9,13 +9,13 @@
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg" />
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/brittanychiang.halcyon-vscode?color=brightgreen" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/brittanychiang.halcyon-vscode.svg" />
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/brittanychiang.halcyon-vscode" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/brittanychiang.halcyon-vscode.svg" />
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/brittanychiang.halcyon-vscode" />
   </a>
 </p>
 
