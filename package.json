@@ -50,6 +50,6 @@
     "eslint": "^6.3.0",
     "eslint-config-prettier": "^6.2.0",
     "prettier": "^1.18.2",
-    "vsce": "^1.66.0"
+    "vsce": "^1.103.1"
   }
 }
