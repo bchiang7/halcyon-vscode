@@ -165,7 +165,7 @@
     // "editor.rangeHighlightBorder": "#8695b755",
     "editorWhitespace.foreground": "#8695b777",
     "editorIndentGuide.background": "#8695b733",
-    "editorIndentGuide.activeBackground": "#8695b755",
+    "editorIndentGuide.activeBackground": "#8695b777",
     "editorInlayHint.background": "#171c28",
     "editorInlayHint.foreground": "#8695b799",
     "editorRuler.foreground": "#2f3b54",
@@ -409,7 +409,7 @@
         "punctuation.definition.entity",
         "constant.character.entity",
         "punctuation.definition.template-expression",
-        "punctuation.section.tag.twig",
+        "punctuation.section.tag.twig"
       ],
       "settings": {
         "foreground": "#c3a6ff"
