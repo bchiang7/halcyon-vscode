@@ -1,6 +1,19 @@
 {
   "name": "Halcyon",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "function": {
+      "foreground": "#ffd580",
+      "italic": false
+    },
+    "variable": "#5ccfe6",
+    "parameter": "#5ccfe6",
+    "interface": "#ffd580",
+    "type": "#ffd580",
+    "property": "#5ccfe6",
+    "property.readonly": "#a2aabc"
+  },
   "colors": {
     // Base colors
     "focusBorder": "#8695b777",
