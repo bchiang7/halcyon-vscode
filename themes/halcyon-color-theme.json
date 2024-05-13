@@ -8,11 +8,13 @@
       "italic": false
     },
     "variable": "#5ccfe6",
+    "variable.declaration": "#a2aabc",
     "parameter": "#5ccfe6",
     "interface": "#ffd580",
     "type": "#ffd580",
     "property": "#5ccfe6",
-    "property.readonly": "#a2aabc"
+    "property.readonly": "#a2aabc",
+    "selfParameter": "#ffd580",
   },
   "colors": {
     // Base colors
