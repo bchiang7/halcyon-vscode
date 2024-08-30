@@ -590,7 +590,6 @@
     {
       "name": "Entity Types",
       "scope": [
-        "support.type",
         "support.class",
         "keyword.other.debugger",
         "entity.other.inherited-class",
