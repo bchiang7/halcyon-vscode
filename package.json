@@ -48,9 +48,9 @@
     "@babel/eslint-parser": "^7.22.5",
     "@upstatement/eslint-config": "^2.0.0",
     "@upstatement/prettier-config": "^1.1.0",
+    "@vscode/vsce": "^3.6.0",
     "eslint": "^8.43.0",
     "eslint-config-prettier": "^8.8.0",
-    "prettier": "^2.8.8",
-    "vsce": "^2.15.0"
+    "prettier": "^2.8.8"
   }
 }
