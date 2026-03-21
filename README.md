@@ -93,4 +93,4 @@ ovsx publish
 
 ## Shameless Plug
 
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.app/).
