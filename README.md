@@ -47,8 +47,8 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 ### Syntax Colors
 
-|                               Color                                | Usage                                           |
-| :----------------------------------------------------------------: | ----------------------------------------------- |
+|                                 Color                                  | Usage                                           |
+| :--------------------------------------------------------------------: | ----------------------------------------------- |
 | ![#c3a6ff](https://via.placeholder.com/10/c3a6ff.png?text=+) `#c3a6ff` | Keywords, constants, template literals          |
 | ![#ffd580](https://via.placeholder.com/10/ffd580.png?text=+) `#ffd580` | Functions, classes, object literal keys         |
 | ![#ffae57](https://via.placeholder.com/10/ffae57.png?text=+) `#ffae57` | Constants, operators                            |
@@ -58,8 +58,8 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 ### UI Colors
 
-|                               Color                                | Usage                                      |
-| :----------------------------------------------------------------: | ------------------------------------------ |
+|                                 Color                                  | Usage                                      |
+| :--------------------------------------------------------------------: | ------------------------------------------ |
 | ![#171c28](https://via.placeholder.com/10/171c28.png?text=+) `#171c28` | Workbench background                       |
 | ![#1d2433](https://via.placeholder.com/10/1d2433.png?text=+) `#1d2433` | Editor background                          |
 | ![#2f3b54](https://via.placeholder.com/10/2f3b54.png?text=+) `#2f3b54` | Highlight, widgets, panels                 |
@@ -83,6 +83,12 @@ Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii
 
 ```bash
 vsce publish patch/minor/major
+```
+
+Publish to Open VSX (Cursor)
+
+```bash
+ovsx publish
 ```
 
 ## Shameless Plug
