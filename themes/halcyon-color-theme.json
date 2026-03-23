@@ -110,7 +110,7 @@
     "sideBarTitle.foreground": "#ffcc66",
     "sideBarSectionHeader.background": "#1d2433",
     "sideBarSectionHeader.foreground": "#ffcc66",
-    "sideBarSectionHeader.border": "#8695b733",
+    "sideBarSectionHeader.border": "#171c28",
 
     // Editor Groups
     "editorGroup.border": "#171c28",
@@ -129,8 +129,9 @@
     "tab.unfocusedActiveBorder": "#ffcc6699",
     "tab.unfocusedActiveForeground": "#d7dce266",
     "tab.unfocusedInactiveForeground": "#d7dce266",
-    "tab.hoverBackground": "#2f3b5499",
     "tab.unfocusedHoverBackground": "#2f3b5499",
+    "tab.inactiveBackground": "#171c28",
+    "tab.hoverBackground": "#2f3b5499",
     "editorPane.background": "#1d2433",
 
     // Editor colors
