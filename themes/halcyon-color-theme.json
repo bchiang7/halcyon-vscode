@@ -316,10 +316,10 @@
     "extensionButton.prominentHoverBackground": "#ffcc6699",
 
     // Quick Picker
-    "quickInput.background": "#171c28",
-    "quickInput.foreground": "#d7dce2",
     "pickerGroup.border": "#2f3b54",
     "pickerGroup.foreground": "#ffcc66",
+    "quickInput.background": "#171c28",
+    "quickInput.foreground": "#8695b7",
 
     // Integrated Terminal colors
     "terminal.background": "#171c28",
