@@ -38,7 +38,7 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
 
 ```json
-  "material-icon-theme.folders.color": "#8695b7",
+  "material-icon-theme.folders.color": "#96a6cc",
   "material-icon-theme.folders.theme": "specific",
   "material-icon-theme.hidesExplorerArrows": true,
 ```
@@ -47,8 +47,8 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 ### Syntax Colors
 
-|                                 Color                                  | Usage                                           |
-| :--------------------------------------------------------------------: | ----------------------------------------------- |
+|                              Color                               | Usage                                           |
+| :--------------------------------------------------------------: | ----------------------------------------------- |
 | ![#c3a6ff](https://placehold.co/1x1/c3a6ff/c3a6ff.png) `#c3a6ff` | Keywords, constants, template literals          |
 | ![#ffd580](https://placehold.co/1x1/ffd580/ffd580.png) `#ffd580` | Functions, classes, object literal keys         |
 | ![#ffae57](https://placehold.co/1x1/ffae57/ffae57.png) `#ffae57` | Constants, operators                            |
@@ -58,13 +58,13 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 ### UI Colors
 
-|                                 Color                                  | Usage                                      |
-| :--------------------------------------------------------------------: | ------------------------------------------ |
+|                              Color                               | Usage                                      |
+| :--------------------------------------------------------------: | ------------------------------------------ |
 | ![#171c28](https://placehold.co/1x1/171c28/171c28.png) `#171c28` | Workbench background                       |
 | ![#1d2433](https://placehold.co/1x1/1d2433/1d2433.png) `#1d2433` | Editor background                          |
 | ![#2f3b54](https://placehold.co/1x1/2f3b54/2f3b54.png) `#2f3b54` | Highlight, widgets, panels                 |
 | ![#6679a4](https://placehold.co/1x1/6679a4/6679a4.png) `#6679a4` | Dividers, subtle UI elements               |
-| ![#8695b7](https://placehold.co/1x1/8695b7/8695b7.png) `#8695b7` | Status bar text, buttons, etc              |
+| ![#96a6cc](https://placehold.co/1x1/96a6cc/96a6cc.png) `#96a6cc` | Status bar text, buttons, etc              |
 | ![#d7dce2](https://placehold.co/1x1/d7dce2/d7dce2.png) `#d7dce2` | Active text, anything that should be white |
 | ![#ffcc66](https://placehold.co/1x1/ffcc66/ffcc66.png) `#ffcc66` | Accent, list tree titles, badges, etc      |
 | ![#bae67e](https://placehold.co/1x1/bae67e/bae67e.png) `#bae67e` | Addition highlights                        |
