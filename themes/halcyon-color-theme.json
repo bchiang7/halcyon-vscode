@@ -208,10 +208,10 @@
     "editorGutter.deletedBackground": "#ef6b73",
 
     // Diff Editor colors
-    "diffEditor.insertedTextBackground": "#bae67e33",
-    "diffEditor.insertedTextBorder": "#bae67e",
-    "diffEditor.removedTextBackground": "#ef6b7333",
-    "diffEditor.removedTextBorder": "#ef6b73",
+    "diffEditor.insertedTextBackground": "#bae67e1a",
+    "diffEditor.insertedTextBorder": "#bae67e1a",
+    "diffEditor.removedTextBackground": "#ef6b731a",
+    "diffEditor.removedTextBorder": "#ef6b731a",
     "diffEditor.border": "#2f3b54",
 
     // Editor Widget colors
