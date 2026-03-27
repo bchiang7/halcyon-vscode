@@ -50,7 +50,8 @@
     "input.border": "#2f3b54",
     "input.foreground": "#d7dce2",
     "input.placeholderForeground": "#96a6cccc",
-    "inputOption.activeBorder": "#2f3b54",
+    "inputOption.activeBackground": "#96a6cc4d",
+    "inputOption.hoverBackground": "#96a6cc33",
     "inputValidation.errorBackground": "#1d2433",
     "inputValidation.errorForeground": "#ef6b73",
     "inputValidation.errorBorder": "#ef6b73",
@@ -151,14 +152,14 @@
 
     // Editor word highlight colors
     "editor.wordHighlightBackground": "#96a6cc33",
-    "editor.wordHighlightBorder": "#ffcc66",
+    "editor.wordHighlightStrongBackground": "#96a6cc4d",
 
     // Editor find/replace colors
-    "editor.findMatchBackground": "#96a6cc99",
-    "editor.findMatchHighlightBackground": "#96a6cc66",
-    "editor.findRangeHighlightBackground": "#96a6cc66",
-    "editor.findMatchBorder": "#ffcc66",
-    "editor.findMatchHighlightBorder": "#ffcc66",
+    "editor.findMatchBackground": "#96a6cc66",
+    "editor.findMatchHighlightBackground": "#96a6cc4d",
+    "editor.findRangeHighlightBackground": "#96a6cc4d",
+    "editor.findMatchBorder": "#ffcc66cc",
+    "editor.findMatchHighlightBorder": "#ffcc66cc",
     "editor.findRangeHighlightBorder": "#ffcc6699",
 
     "search.resultsInfoForeground": "#d7dce2",
