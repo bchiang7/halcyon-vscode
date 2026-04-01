@@ -38,6 +38,8 @@
     "button.background": "#ffcc66",
     "button.foreground": "#171c28",
     "button.hoverBackground": "#ffcc66cc",
+    "button.secondaryBackground": "#ffcc66",
+    "button.secondaryForeground": "#171c28",
 
     // Dropdown control
     "dropdown.background": "#171c28",
