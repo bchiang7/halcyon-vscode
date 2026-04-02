@@ -1,11 +1,11 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/main/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Halcyon Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
+  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.app/">VS Code, Sublime Text, Atom, and more</a>.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/main/images/demo.png)
 
 ## Installation via VS Code
 
@@ -31,7 +31,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/main/vsc-extension-quickstart.md)
 
 ## Icon Theme
 
