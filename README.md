@@ -5,7 +5,7 @@
   Halcyon Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
+  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.app/">VS Code, Sublime Text, Atom, and more</a>.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/main/images/demo.png)
 
 ## Installation via VS Code
 
