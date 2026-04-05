@@ -40,6 +40,11 @@
         "label": "Halcyon",
         "uiTheme": "vs-dark",
         "path": "./themes/halcyon-color-theme.json"
+      },
+      {
+        "label": "Halcyon Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/halcyon italic color-theme.json"
       }
     ]
   },
